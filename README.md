@@ -10,6 +10,8 @@ https://github.com/ksqsf/rime-moran
 
 1码2码简码
 参考小鹤官方简码，2简词位，换成高频单字，zy=尊，ty=吞
+https://github.com/zodensu/FlyPY-zodensu
+https://zhuanlan.zhihu.com/p/556027991
 
 3码简码 【最后只用这个，实现语句流畅输入】
 参考 zrm2000.dict.yaml 已经按词频排序
@@ -199,4 +201,8 @@ https://github.com/vitszeng/rime-zrm2000
 
 ## 参考讨论
 
+自定義雙拼方案
 https://github.com/ksqsf/rime-moran/issues/41
+
+优化码表的原则
+https://github.com/ksqsf/rime-moran/issues/43#issuecomment-2053551470
